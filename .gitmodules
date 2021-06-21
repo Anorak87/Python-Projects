@@ -1,0 +1,3 @@
+[submodule "FreeCodeCamp-Python"]
+	path = FreeCodeCamp-Python
+	url = https://github.com/Anorak87/FreeCodeCamp-Python.git
