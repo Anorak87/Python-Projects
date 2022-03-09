@@ -2,6 +2,6 @@
 	path = PY4E-Tasks
 	url = https://github.com/Anorak87/PY4E-Tasks.git
 
-[submodule "Python-Projects"]
-	path = Python-Projects
-	url = https://github.com/Anorak87/Python-Projects.git
+[submodule "PythonTrader"]
+	path = PythonTrader
+	url = https://github.com/Anorak87/PythonTrader
