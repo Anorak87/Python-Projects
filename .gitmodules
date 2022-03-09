@@ -1,3 +1,7 @@
 [submodule "PY4E-Tasks"]
 	path = PY4E-Tasks
 	url = https://github.com/Anorak87/PY4E-Tasks.git
+
+[submodule "Python-Projects"]
+	path = Python-Projects
+	url = https://github.com/Anorak87/Python-Projects.git
